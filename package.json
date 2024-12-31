@@ -1,0 +1,19 @@
+{
+  "name": "todoapp-with-nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongodb": "3.7",
+    "mongoose": "^8.8.0",
+    "nodemon": "^3.1.4"
+  }
+}
